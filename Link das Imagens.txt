@@ -69,6 +69,8 @@ HD:
 	https://img.olx.com.br/images/42/424903080564282.jpg
 	https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzpOyBgrtarqPX1ivpFaUIaZO6TifCsZETGOpVsYFh2IYDXW3v
 	https://img.olx.com.br/images/95/958918029882268.jpg
+	https://images-na.ssl-images-amazon.com/images/I/31R0bMyTv-L.jpg
+	https://cdn.awsli.com.br/600x450/1069/1069405/produto/41926256/f7f6c78d2a.jpg
 
 Processador:
 	https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR93kQZQ7xKSPrzOyq61shl5swZ07njp9VCo47Cj1GG9MtzxE1l
@@ -84,6 +86,7 @@ Processador:
 	https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmqmIRlJ2SZMlb-PU8SaKZ3NVxO5yPpptD5DjCB9WZUPkVwRW3
 	https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRmw7eIf-RNx2RIO0zTVhrBChqCsw4DVrgax01alWXd7aIK-UY
 	https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv8UMLjNpNrAJpuvxe0O0xvq4OhmQe0ABmjO0S5JTR2m-pJJ2w
+	https://images-na.ssl-images-amazon.com/images/I/51eA7I2ZjJL._SX466_.jpg
 
 Fonte:
 
